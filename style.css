@@ -45,6 +45,7 @@ body{
     font-family: var(--fonte-padrao);
     background-image: linear-gradient(to top, var(--cor1), var(--cor2), var(--cor3), var(--cor4));
     overflow-x: hidden; /* Tirar a barra de rolagem horizontal/lateral */
+    padding-top: 200px;
 }
 
 p{
@@ -102,6 +103,10 @@ header{
     background-color: black;
     width: 100%;
     padding: 15px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
 }
 
 header > h1{
@@ -147,6 +152,7 @@ main{
     min-width: 300px;
     max-width: 1000px;
     padding: 30px;
+    padding-top: 65px;
     margin: auto;
     margin-bottom: 30px;
     background-color: white;
