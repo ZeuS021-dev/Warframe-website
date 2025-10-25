@@ -1,0 +1,56 @@
+Estrutura do Website sobre Warframe
+
+1. Home
+Título: Bem-vindo ao Universo de Warframe
+Texto: "Warframe é um jogo de ação cooperativa em terceira pessoa, desenvolvido pela Digital Extremes. Em um mundo repleto de guerra e intriga, você assume o papel de um Tenno, um guerreiro antigo que desperta de um longo sono para lutar contra diversas facções que ameaçam a galáxia. Junte-se a outros jogadores e explore vastos planetas, complete missões e colete equipamentos poderosos."
+
+
+2. Sobre o Jogo
+Título: O que é Warframe?
+Texto: "Lançado em 2013, Warframe combina elementos de RPG, tiro em terceira pessoa e combate corpo a corpo. Os jogadores podem personalizar seus Warframes, cada um com habilidades únicas, e formar equipes para enfrentar inimigos desafiadores. O jogo é gratuito para jogar, com microtransações que permitem a compra de itens cosméticos e melhorias."
+
+
+3. Factions (Facções)
+Título: Facções do Jogo
+Texto: "Em Warframe, você encontrará várias facções, cada uma com suas próprias motivações e estilos de combate. As principais facções incluem:
+Grineer: Uma raça militarizada de clones, conhecidos por sua força bruta.
+Corpus: Uma corporação que prioriza lucro e tecnologia, utilizando robôs e armas avançadas.
+Infested: Criaturas mutantes que são o resultado de uma infecção biológica, atacando tudo em seu caminho.
+Sentients: Antigos inimigos dos Tenno, com habilidades adaptativas e uma história rica."
+
+
+4. Warframes
+Título: Conheça os Warframes
+Texto: "Os Warframes são os protagonistas do jogo, cada um com habilidades e estilos de combate únicos. Alguns exemplos incluem:
+Excalibur: Um Warframe equilibrado, ideal para iniciantes, com habilidades de espada e luz.
+Mag: Especialista em manipulação magnética, capaz de controlar o campo de batalha.
+Rhino: Um tanque robusto, perfeito para absorver dano e proteger aliados.
+Nova: Uma Warframe de controle de massa, capaz de desintegrar inimigos com suas habilidades."
+
+
+5. Missões e Modos de Jogo
+Título: Missões e Modos de Jogo
+Texto: "Warframe oferece uma variedade de missões e modos de jogo, incluindo:
+Missões de Extermínio: Elimine todos os inimigos em uma área designada.
+Missões de Captura: Capture um alvo específico e escape.
+Missões de Defesa: Proteja um objetivo contra ondas de inimigos.
+Missões de Sobrevivência: Sobreviva o maior tempo possível contra inimigos em constante aumento."
+
+
+6. Comunidade
+Título: Junte-se à Comunidade
+Texto: "Warframe possui uma comunidade vibrante e ativa. Participe de fóruns, grupos no Discord e redes sociais para compartilhar dicas, estratégias e formar equipes. A colaboração é fundamental para o sucesso em missões mais desafiadoras."
+
+
+7. Notícias e Atualizações
+Título: Últimas Notícias
+Texto: "Fique por dentro das últimas atualizações, eventos e novidades do jogo. A Digital Extremes frequentemente lança novos conteúdos, incluindo novos Warframes, armas e missões. Não perca as novidades!"
+
+
+8. Contato
+Título: Entre em Contato
+Texto: "Se você tiver dúvidas ou sugestões, entre em contato conosco através do formulário abaixo. Estamos sempre abertos a feedback e queremos ouvir sua opinião!"
+
+
+Rodapé
+Texto: "© 2023 Warframe Fan Site. Todos os direitos reservados. Warframe é uma marca registrada da Digital Extremes."
